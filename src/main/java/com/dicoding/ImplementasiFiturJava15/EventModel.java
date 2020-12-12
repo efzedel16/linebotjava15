@@ -1,3 +1,5 @@
+package com.dicoding.ImplementasiFiturJava15;
+
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;

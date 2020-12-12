@@ -1,4 +1,4 @@
-package com.dicoding.implementasifiturjava15;
+package com.dicoding.ImplementasiFiturJava15;
 
 import com.linecorp.bot.client.LineMessagingClient;
 import com.linecorp.bot.client.LineSignatureValidator;
